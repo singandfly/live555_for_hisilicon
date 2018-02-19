@@ -1,1 +1,3 @@
 # live555_for_hisilicon
+
+live555 for hisilicon SOCs, such as Hi3516a, Hi3519, Hi3559, etc...
